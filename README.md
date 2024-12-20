@@ -7,4 +7,6 @@
 
 ### Hello there! 🙂
 
-<a href="https://www.buymeacoffee.com/aylean.exe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me Some Matcha" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/aylean.exe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me Some Matcha" style="height: 60px !important;width: 217px !important; " ></a>
+
+<a href="https://medium.com/@caffe1ne" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2023/07/Medium-Logo.jpg" alt="Mediumprofile" style="height: 60px !important;width: 120px !important; " ></a>
