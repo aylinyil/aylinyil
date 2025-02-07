@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🖤, I'm caffe1ne</h1>
-<h3 align="center">Computer Science Student and Software Engineer Trainee 👩‍🎓</h3>
+<h3 align="center">Junior Developer</h3>
 
 <a target="_blank" align="left">
   <img align="right" top="500" height="260" width="700" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRmYmlxeXhiZjVvenR1OWt2Mmw5eW53dGJnZ3VsbHptMGR1ZmpnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUyrMCdgrOL3ntbTvK/giphy.gif">
